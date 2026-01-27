@@ -1,0 +1,3 @@
+- JDK
+- IDE(eclipse/intellij)
+- 빌드툴(gradle)
